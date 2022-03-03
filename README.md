@@ -1,1 +1,1 @@
-test
+api endpoint: https://weather-app-ss1.herokuapp.com/api/v1/results?lat=19.076&lon=72.8777
