@@ -13,3 +13,5 @@
 **HTTP Message Type**: GET\
 **Note**: Latitude and Longitude are sent as query parameters.\
 **api endpoint**: https://weather-app-ss1.herokuapp.com/api/v1/results?lat=19.076&lon=72.8777
+**Screenshot**:
+![Alt Text](https://github.com/sai-sreekhar/Weather-App/blob/main/screenshots/Level-2%20(latitude%20and%20longitude%20are%20sent%20as%20query%20params).jpg)
