@@ -5,8 +5,8 @@ var app = express()
 var bodyParser = require("body-parser");
 app.use(bodyParser.json());
 
-// var HTTP_PORT = process.env.PORT || 3000
-var HTTP_PORT = 8000;
+var HTTP_PORT = process.env.PORT || 8000
+// var HTTP_PORT = 8000;
 
 
 // Start server
