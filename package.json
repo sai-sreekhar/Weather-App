@@ -1,0 +1,13 @@
+{
+  "name": "users-api",
+  "version": "1.0.0",
+  "description": "Users REST API",
+  "main": "index.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "Me",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
